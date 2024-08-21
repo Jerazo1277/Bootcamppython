@@ -1,0 +1,18 @@
+Ley 1581 de 2012
+
+Efrain Chaguendo  a  Todos 6:35 PM
+ base en la Ley 1581 de 2012 y el Decreto 1377 de 2013,
+
+Jheyson Galvis  a  Todos 6:49 PM
+https://view.genially.com/667ab04c4c7fbb001431093e/presentation-c6-analisis-de-datosnivel-integradorg1
+348
+
+Daniel Puliche 6:56 PM
+git pull
+El comando git pull se utiliza para actualizar el repositorio local con los cambios que se han realizado en el repositorio remoto. Esencialmente, es una combinación de dos comandos:
+git fetch: Este comando descarga los datos desde el repositorio remoto (como commits, ramas, etc.) y los almacena en tu repositorio local, pero no los fusiona con tu trabajo actual.
+git merge: Este comando toma los cambios descargados por git fetch y los fusiona con la rama que tienes actualmente activa (checkout).
+El comando git pull realiza automáticamente estas dos acciones, por lo que toma los cambios del repositorio remoto y los aplica a tu rama actual.
+Ejemplo de uso:
+git pull origin main
+Esto descarga y fusiona los últimos cambios de la rama main del repositorio remoto llamado origin con tu rama main local.
